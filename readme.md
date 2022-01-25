@@ -21,4 +21,6 @@ av Lars Demian, stjärnan och karriären\
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
 ## Författare
-[@johan-at-grit](https://github.com/johan-at-grit/)
+* [@johan-at-grit](https://github.com/johan-at-grit/)
+* [@margareta75](https://github.com/margareta75/)
+
