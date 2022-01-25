@@ -10,13 +10,15 @@ common styling
 
 a:link {
    text-decoration: none;
+   padding: 8px 15px;
 }
 
 a:hover > p {
-   background-color: black;
-   color: white;
+   background-color: #fecc00;
+   border: 2px solid #000;
+   color: #000;
 }
 
 body {
-   background-color: darkolivegreen;
+   background-color: #fecc00;
 }
