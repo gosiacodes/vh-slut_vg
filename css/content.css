@@ -10,3 +10,7 @@
 .content img {
    width: 1280px;
 }
+
+img {
+   opacity: 0.5;
+}
