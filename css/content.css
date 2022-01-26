@@ -14,3 +14,9 @@
 img {
    opacity: 0.5;
 }
+
+.img-small img{
+   width: 550px;
+   height: auto;
+   opacity: 1;
+}
