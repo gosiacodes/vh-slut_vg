@@ -1,12 +1,12 @@
 .navigation {
-   background-color: #006aa7;
-   padding: 10px 15px;
+  background-color: #006aa7;
+  padding: 10px 15px;
 }
 
 .navigation a p {
-   font-size: 1.5em;
-   display: inline;
-   padding: 8px 15px;
-   color: #fff;
-   border: 2px #006aa7 solid;
+  font-size: 1.5em;
+  display: inline;
+  padding: 8px 15px;
+  color: #fff;
+  border: 2px #006aa7 solid;
 }
