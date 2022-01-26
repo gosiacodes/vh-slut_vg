@@ -1,16 +1,16 @@
 .footer p {
-   font-size: 1em;
-   font-style: italic;
-   letter-spacing: 0.2px;
-   color: #fff;
-   padding: 4px 30px;
+  font-size: 1em;
+  font-style: italic;
+  letter-spacing: 0.2px;
+  color: #fff;
+  padding: 4px 30px;
 }
 
 .footer {
-   background-color: #006aa7;
-   height: 3rem;
-   display: flex;
-   flex-direction: row;
-   align-items: center;
-   justify-content: center;
+  background-color: #006aa7;
+  height: 3rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
