@@ -1,26 +1,17 @@
-# Gritty Café
+## :sparkles: Gritty Café :sparkles:
 
-## Om
+<img src="https://user-images.githubusercontent.com/57414079/151241123-9dfdf774-ac3b-4d24-bc56-cc1e2178cd0f.png" width="215" height="103" alt="logo">
+
+### :pushpin: _Om projektet_
 Gritty Café är en exempelsite för att lära sig versionshantering med Git och Github som host.
 
+### :pushpin: _Mer info_
+[wiki pages](https://github.com/margareta75/vh-slut_vg/wiki)
 
-## Översikt
-**Content** finns i rotmappen\
-**Bilder** finns i folder *img*\
-**Styling** finns i folder *style*
-
-## credits
-> Så nu sitter jag här i min nya bil\
-> Och lyfter min gyllene hatt\
-> Och jag vill tacka livet, jag har haft tur
-
-av Lars Demian, stjärnan och karriären\
-(OBS! Känsliga varnas för ekivok text.)
-
-## Licens
+### :pushpin: _Licens_
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
-## Författare
-* [@johan-at-grit](https://github.com/johan-at-grit/)
-* [@margareta75](https://github.com/margareta75/)
+### :pushpin: _Credits_
+* Lärare: [@johan-at-grit](https://github.com/johan-at-grit/)
+* Elev: [@margareta75](https://github.com/margareta75/)
 
