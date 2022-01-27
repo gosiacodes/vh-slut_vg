@@ -11,7 +11,14 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 ### :pushpin: _Licens_
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
-### :pushpin: _Credits_
-* Lärare: [@johan-at-grit](https://github.com/johan-at-grit/)
-* Elev: [@margareta75](https://github.com/margareta75/)
+### :pushpin: _Authors_
+#### :star: _Lärare:_
+* [@johan-at-grit](https://github.com/johan-at-grit/)
+* [@aftonstrale-knowit](https://github.com/aftonstrale-knowit)
+#### :star: _Elev:_
+* [@margareta75](https://github.com/margareta75/)
+
+### :pushpin: _Feedback_
+* [@Sydow75](https://github.com/sydow75)
+* [@nathaliedpettersson](https://github.com/nathaliedpettersson)
 
